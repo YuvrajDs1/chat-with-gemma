@@ -1,4 +1,6 @@
-LangChain + Ollama + Streamlit Demo
+## Chat-With-Gemma
+
+### LangChain + Ollama + Streamlit
 
 This is a simple demo project that combines LangChain, Ollama, and Streamlit to build an interactive chatbot powered by the Gemma model. It also includes LangSmith integration for tracing and observability.
 
